@@ -1,16 +1,2 @@
-# netflix
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-01-10 211951](https://user-images.githubusercontent.com/112394032/211662254-90b5acf4-20d2-4de7-8032-c3bc1896e8a7.png)
+![Ekran görüntüsü 2023-01-10 212625](https://user-images.githubusercontent.com/112394032/211662258-975e9354-43dc-412c-a7a8-5418424d9674.png)
